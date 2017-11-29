@@ -1,0 +1,16 @@
+{
+	"types": [
+		{
+		"name": "grass",
+		"pos": [3,1]
+		},
+		{
+		"name": "flower",
+		"pos" : [4,1]
+		},
+		{
+		"name": "wata",
+		"pos" : [5,1] 
+		}
+	]
+}
